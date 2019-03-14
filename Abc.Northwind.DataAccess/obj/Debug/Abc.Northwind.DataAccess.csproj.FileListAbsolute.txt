@@ -1,0 +1,6 @@
+c:\users\murat\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.DataAccess.dll
+c:\users\murat\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.DataAccess.pdb
+c:\users\murat\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.dll
+c:\users\murat\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.pdb

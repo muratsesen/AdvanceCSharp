@@ -1,0 +1,1 @@
+c:\users\murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.csproj.CoreCompileInputs.cache

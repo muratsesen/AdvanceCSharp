@@ -1,0 +1,2 @@
+c:\users\murat\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\Abc.Northwind.Entities.csprojResolveAssemblyReference.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\Abc.Northwind.Entities.csproj.CoreCompileInputs.cache

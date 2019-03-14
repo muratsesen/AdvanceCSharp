@@ -1,0 +1,6 @@
+c:\users\murat\source\repos\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Business.dll
+c:\users\murat\source\repos\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Business.pdb
+c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csprojResolveAssemblyReference.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csproj.CoreCompileInputs.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.dll
+c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.pdb

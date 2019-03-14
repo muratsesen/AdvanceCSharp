@@ -1,0 +1,7 @@
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\bin\Debug\Abc.Northwind.ConsoleUI.exe.config
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\bin\Debug\Abc.Northwind.ConsoleUI.exe
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\bin\Debug\Abc.Northwind.ConsoleUI.pdb
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.csproj.CoreCompileInputs.cache
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.exe
+c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.pdb
