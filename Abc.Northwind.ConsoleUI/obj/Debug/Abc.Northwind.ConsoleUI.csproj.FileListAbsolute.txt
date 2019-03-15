@@ -5,3 +5,10 @@ c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.
 c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.csproj.CoreCompileInputs.cache
 c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.exe
 c:\users\murat\source\repos\Abc\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\bin\Debug\Abc.Northwind.ConsoleUI.exe.config
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\bin\Debug\Abc.Northwind.ConsoleUI.exe
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\bin\Debug\Abc.Northwind.ConsoleUI.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.exe
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.ConsoleUI\obj\Debug\Abc.Northwind.ConsoleUI.pdb

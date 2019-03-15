@@ -4,3 +4,7 @@ c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.B
 c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csproj.CoreCompileInputs.cache
 c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.dll
 c:\users\murat\source\repos\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.pdb

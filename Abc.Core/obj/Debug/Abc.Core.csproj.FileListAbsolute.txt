@@ -1,1 +1,13 @@
 c:\users\murat\source\repos\Abc\Abc.Core\obj\Debug\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\Abc.Core.dll.config
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\Abc.Core.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\Abc.Core.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\EntityFramework.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\EntityFramework.xml
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\obj\Debug\Abc.Core.csprojAssemblyReference.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\obj\Debug\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\obj\Debug\Abc.Core.csproj.CopyComplete
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\obj\Debug\Abc.Core.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Core\obj\Debug\Abc.Core.pdb
