@@ -8,3 +8,15 @@ C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCShar
 C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csproj.CoreCompileInputs.cache
 C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.dll
 C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Business.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Business.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Core.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Northwind.DataAccess.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Entities.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\EntityFramework.dll
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Core.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Core.dll.config
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Northwind.DataAccess.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Entities.pdb
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\bin\Debug\EntityFramework.xml
+C:\Users\yasar\Desktop\Udemy derslerim\Engin Demirog-Advance CSharp\AdvanceCSharp\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csproj.CopyComplete
